@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"go-rest-mongo/config"
-	"go-rest-mongo/internal/model"
+	"go-rest-mongo/internal/app/model"
 
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"

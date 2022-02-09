@@ -2,7 +2,8 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"go-restful/internal/model"
+	"go-rest-mongo/internal/app/model"
+
 	"gopkg.in/mgo.v2/bson"
 	"log"
 )
